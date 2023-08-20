@@ -87,8 +87,10 @@ body{
     color: #fff;
 }
 .item a{
-    text-decoration: none;
-    
+    text-decoration: none;  
+}
+.forgotten{
+    color: gray;
 }
 .page{ 
     text-align: center;
@@ -96,7 +98,7 @@ body{
 .page a{
     text-decoration:none;
     margin: auto;
-    color: #FFFFFF;
+    color: gray;
 }
 /*Footer */
 .footer .box-footer {
@@ -123,11 +125,11 @@ li{
 }
 li a{
     text-decoration: none;
-    color: #FFFFFF;
+    color: gray;
 }
 .center-foot {
     height: 150px;
     width: 100%;
     font-size: 14px;
-    color: #FFFFFF;
+    color: ;
 }
